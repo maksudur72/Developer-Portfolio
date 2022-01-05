@@ -9,7 +9,7 @@ h1{
 .rong{
     color: darkorange;
 }
-section{
+.flexible-content{
     display: flex;
     margin-bottom: 150px;
 
