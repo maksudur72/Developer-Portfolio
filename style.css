@@ -70,3 +70,18 @@ h1{
     padding-left: 5%;
     padding-right: 5%;
 }
+#web-exp-border{
+    border-left: 10px solid;
+    border-image: linear-gradient(darkblue, orange);
+    border-image-slice: 1;
+
+}
+#full-stack-web{
+    border-left: 10px solid;
+    border-image: linear-gradient(darkorange, rgb(146, 17, 17));
+    border-image-slice: 1;
+
+}
+footer{
+    text-align: center;
+}
